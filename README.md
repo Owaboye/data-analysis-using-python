@@ -10,3 +10,5 @@ There is a need for a structured analysis that highlights:
 - Timeliness of student payments
 - Key performance insights to guide financial and operational decisions
 
+![Expected vs Actual](https://github.com/Owaboye/data-analysis-using-python/blob/main/Expected%20VS%20Actual.png)
+
